@@ -1,0 +1,24 @@
+{
+  "name": "tugas-cypress-amazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yovipeot/tugas-cypress-amazon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yovipeot/tugas-cypress-amazon/issues"
+  },
+  "homepage": "https://github.com/yovipeot/tugas-cypress-amazon#readme",
+  "devDependencies": {
+    "cypress": "^15.5.0"
+  }
+}
